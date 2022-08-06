@@ -1,0 +1,33 @@
+body{
+        
+    color: rgb(25, 203, 143);
+background-color: rgb(43, 23, 174);
+}
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+label{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user{
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+}
+.pwd{
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+}
+.submit{
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+}
